@@ -10,7 +10,7 @@ $('#particularContent').hide();
 /* Template
 $('#nameContent').hide();
 */
-$('#theme').hide();
+// $('#theme').hide();
 $('#lan').hide();
 
 // Hides all the divs in the particular, unless the first one
